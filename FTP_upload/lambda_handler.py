@@ -11,6 +11,7 @@ import boto3
 
 
 # For example: FTP_HOST = ftp.your_ftp_host.com
+# replace with os.environ() and put the required details in lambda configuration environmental variables
 FTP_HOST = 'abc.upload.llnw.net'
 FTP_USER = 'asdsadsadia-vs'
 FTP_PWD = 'asdsadsad'
