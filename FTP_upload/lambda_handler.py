@@ -11,9 +11,9 @@ import boto3
 
 
 # For example: FTP_HOST = ftp.your_ftp_host.com
-FTP_HOST = 'in10media-l.upload.llnw.net'
-FTP_USER = 'in10media-vs'
-FTP_PWD = 'M,zbnbC4W'
+FTP_HOST = 'abc.upload.llnw.net'
+FTP_USER = 'asdsadsadia-vs'
+FTP_PWD = 'asdsadsad'
 # For example: FTP_PATH = '/home/logs/'
 
 s3_client = boto3.client('s3')
